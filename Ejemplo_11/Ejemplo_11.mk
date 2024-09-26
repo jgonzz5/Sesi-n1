@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Ejemplo7
+ProjectName            :=Ejemplo_11
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/javig/Documents/Universidad/SEGUNDO/TrabajosCodelite/Sesion1Lab
-ProjectPath            :=C:/Users/javig/Documents/Universidad/SEGUNDO/TrabajosCodelite/Sesion1Lab/Ejemplo7
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo7
+ProjectPath            :=C:/Users/javig/Documents/Universidad/SEGUNDO/TrabajosCodelite/Sesion1Lab/Ejemplo_11
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Ejemplo_11
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/javig/Documents/Universidad/SEGUNDO/TrabajosCodelite/Sesion1Lab/Ejemplo7/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/javig/Documents/Universidad/SEGUNDO/TrabajosCodelite/Sesion1Lab/Ejemplo_11/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

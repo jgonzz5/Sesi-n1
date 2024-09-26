@@ -1,4 +1,20 @@
 [{
+  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_12\\main.cpp",
+  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_12",
+  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_12\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo10\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo9\\main.cpp",
+  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo9",
+  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo9\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo9\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo8\\main.cpp",
   "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo8",
   "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo8\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -15,19 +31,19 @@
   "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo4",
   "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo4\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo5\\main.cpp",
   "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo5",
   "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo5\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2\\main.cpp",
-  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2",
-  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_11\\main.cpp",
+  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_11",
+  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_11\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo_11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo6\\main.cpp",
   "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo6",
   "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo6\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1\\main.cpp",
-  "directory": "C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1",
-  "command": "clang++ -c C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1\\main.cpp -o C:\\Users\\javig\\Documents\\Universidad\\SEGUNDO\\TrabajosCodelite\\Sesion1Lab\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]
